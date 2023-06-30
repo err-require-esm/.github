@@ -3,6 +3,4 @@ Error [ERR_REQUIRE_ESM]: Must use import to load ES Module: /home/err-require-es
 require() of ES modules is not supported.
 ```
 
-[!mportantImport](https://github.com/importantimport)'s sub-organization.
-
-Have fun!
+[!mportantImport](https://github.com/importantimport)'s sub-organization. Have fun!
